@@ -2,15 +2,14 @@
 
 podemos adicionar js no html de duas formas
 
-1. 
+1. Interno
 ```HTML
-interno
 <script>
     // o codigo js vem aqui
 </script>
 ```
 
-2. 
+2. Externo
 ```HTML
 <script src="arquivo.js"></script>
 ```
