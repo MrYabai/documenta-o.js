@@ -10,4 +10,6 @@ let object = {
 /*
 o object pode ter diversos dados
 mas eles devem ser separados por virgula
+vale lembrar que dentro dos objetos nos podemos ter outros objetos e diversas outras coisas
+vou mostrar algumas como decorrer do tempo
 */
