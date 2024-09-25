@@ -1,5 +1,4 @@
 /*
-break e continue :
     break : O break e usado para interromper completamente a execução de um laço(for, while, do while...).
     quando o break e encontrado, o laço para imediatamente, e o codigo apos o laço continua a ser executado
 
@@ -16,3 +15,12 @@ for(let i = 0; i< 10; i++){ //aqui e a expressao
     console.log(i); // printa o valor do indice (geralmente o indice e chamado de "i")
 }
 console.log("fim do laço"); // isso sera executado quando o a expressao do "if" for verdadeira
+
+// codigo seco (sem comentarios) abaixo
+
+for(let i = 0; i < 10; i++){
+    if(i === 5){
+        break;
+    }
+    console.log(i);
+}
