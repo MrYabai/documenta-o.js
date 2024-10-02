@@ -7,6 +7,6 @@ e recomendado seguir a ordem dos materiais
 caso esteja vendo todo o codigo pelo vscode eu recomendo usar o quokka pois usarei muito o console.log()
 esse comando serve para testar e ver oque a sua variavel ou valor retorna de verdade (e como um "teste")
 
-os testes dos arquivos podem ser feitos em sua propria maquina ascesse o [teste.md](D:\repositorios\documentação\documentação.js\basic\0_1-teste.md)
+os testes dos arquivos podem ser feitos em sua propria maquina ascesse o [teste.md](D:\repositorios\documentação\documentação.js\basic\0_1-teste.md) para mais informaçoes
 
 caso veja algo que esta faltando ou uma forma de dar um exemplo mais "detalhado" por favor me informe no email graovizir0090@gmail.com
